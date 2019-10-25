@@ -7,6 +7,7 @@
     <br />
 </p>
 
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/appwrite/appwrite.svg)](https://hub.docker.com/r/appwrite/appwrite)
 ![Discord](https://img.shields.io/discord/564160730845151244)
 [![Build Status](https://travis-ci.org/appwrite/appwrite.svg?branch=master)](https://travis-ci.org/appwrite/appwrite)
